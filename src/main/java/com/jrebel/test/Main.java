@@ -8,7 +8,7 @@ public class Main {
 	public static void main(String[] vargs) throws Exception {
 		int counter = 0;
 		while(true){
-			System.out.println(counter + " - jRebel rocks! :D");
+			System.out.println(counter + " - jRebel rocks!!! :D"); // then hit CRTL + F9
 			Thread.sleep(1000);
 			counter++;
 		}
